@@ -1,4 +1,6 @@
-package subpack
+package site
+
+var users map[string]User
 
 // User is a struct containing all information about the user
 type User struct {

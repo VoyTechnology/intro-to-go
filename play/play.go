@@ -1,7 +1,6 @@
 package main
 
 import (
-
   // Import the correct packages
   ""
 )
@@ -9,9 +8,13 @@ import (
 // Store user map here
 
 func main(){
-  // Read from Stdin
+  // TODO: Read from Stdin what the user wants to do
 
-  // Create new user and add it to the map
+  // TODO: Create new user and add it to the map
 
-  // 
+  // TODO: Allow a user to login
+
+  // TODO: If user is logged in, allow him to make a post
+
+  // TODO: Get the user's posts
 }
